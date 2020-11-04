@@ -1,0 +1,4 @@
+[submodule "lib/sc-flexy-logger-lib"]
+	path = lib/sc-flexy-logger-lib
+	url = https://github.com/hms-networks/sc-flexy-logger-lib.git
+	branch = master
